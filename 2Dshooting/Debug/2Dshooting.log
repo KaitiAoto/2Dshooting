@@ -1,0 +1,7 @@
+﻿  player.cpp
+C:\Users\student\source\repos\2Dshooting\player.cpp(264,25): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\student\source\repos\2Dshooting\player.cpp(268,26): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\student\source\repos\2Dshooting\player.cpp(272,25): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\student\source\repos\2Dshooting\player.cpp(276,26): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+C:\Users\student\source\repos\2Dshooting\player.cpp(409,30): warning C4244: '引数': 'float' から 'DWORD' への変換です。データが失われる可能性があります。
+  2Dshooting.vcxproj -> C:\Users\student\source\repos\2Dshooting\Debug\2Dshooting.exe
